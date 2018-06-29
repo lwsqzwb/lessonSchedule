@@ -15,7 +15,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:textSize="50sp"
-        android:text="作者还在构思中,本项目开源地址："/>
+        android:text="作者还在构思中,本项目开源地址：https://github.com/lwsqzwb/lessonSchedule"/>
 
 
 
